@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/CompleteSources/Java/JavaSwing/PhanMemThiTracNghiem/src/DTO/CauHoiDTO.java</file>
+            <file>file:/D:/CompleteSources/Java/JavaSwing/PhanMemThiTracNghiem/src/DTO/XepHangDTO.java</file>
+            <file>file:/D:/CompleteSources/Java/JavaSwing/PhanMemThiTracNghiem/src/DTO/KetQuaThiDTO.java</file>
+            <file>file:/D:/CompleteSources/Java/JavaSwing/PhanMemThiTracNghiem/src/GUI/XepHangGUI.java</file>
+            <file>file:/D:/CompleteSources/Java/JavaSwing/PhanMemThiTracNghiem/src/DAL/LuaChonDAL.java</file>
+            <file>file:/D:/CompleteSources/Java/JavaSwing/PhanMemThiTracNghiem/src/GUI/CauHoiGUI.java</file>
+            <file>file:/D:/CompleteSources/Java/JavaSwing/PhanMemThiTracNghiem/src/DAL/Database.java</file>
+            <file>file:/D:/CompleteSources/Java/JavaSwing/PhanMemThiTracNghiem/src/DAL/SinhVienDAL.java</file>
+            <file>file:/D:/CompleteSources/Java/JavaSwing/PhanMemThiTracNghiem/src/GUI/DeThiGUI.java</file>
+            <file>file:/D:/CompleteSources/Java/JavaSwing/PhanMemThiTracNghiem/src/Database/script.sql</file>
+            <file>file:/D:/CompleteSources/Java/JavaSwing/PhanMemThiTracNghiem/src/DAL/KetQuaThiDAL.java</file>
+            <file>file:/D:/CompleteSources/Java/JavaSwing/PhanMemThiTracNghiem/src/GUI/ThiGUI.java</file>
+            <file>file:/D:/CompleteSources/Java/JavaSwing/PhanMemThiTracNghiem/src/DTO/LuaChonDTO.java</file>
+            <file>file:/D:/CompleteSources/Java/JavaSwing/PhanMemThiTracNghiem/src/Main/Main.java</file>
+            <file>file:/D:/CompleteSources/Java/JavaSwing/PhanMemThiTracNghiem/src/GUI/SinhVienGUI.java</file>
+            <file>file:/D:/CompleteSources/Java/JavaSwing/PhanMemThiTracNghiem/src/GUI/GiaoDienChinh.java</file>
+            <file>file:/D:/CompleteSources/Java/JavaSwing/PhanMemThiTracNghiem/src/DAL/CauHoiDAL.java</file>
+            <file>file:/D:/CompleteSources/Java/JavaSwing/PhanMemThiTracNghiem/src/DAL/DeThiDAL.java</file>
+            <file>file:/D:/CompleteSources/Java/JavaSwing/PhanMemThiTracNghiem/src/DTO/SinhVienDTO.java</file>
+        </group>
+    </open-files>
+</project-private>
